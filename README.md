@@ -1,6 +1,6 @@
 # Lab seminars
 
-Talks given at K-MedAI Lab (Prof. Sunyoung Kwon, Pusan National University).
+Talks given at MAIL Lab (Prof. Sunyoung Kwon, Pusan National University).
 
 | date | topic | file |
 |---|---|---|
